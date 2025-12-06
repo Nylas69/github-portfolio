@@ -1,0 +1,15 @@
+D:\Facultate\Cripto\Proiect Okamoto\Okamoto Alg v3\Okamoto Alg v3\obj\Debug\net7.0\Okamoto Alg v3.csproj.AssemblyReference.cache
+D:\Facultate\Cripto\Proiect Okamoto\Okamoto Alg v3\Okamoto Alg v3\obj\Debug\net7.0\Okamoto Alg v3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\Cripto\Proiect Okamoto\Okamoto Alg v3\Okamoto Alg v3\obj\Debug\net7.0\Okamoto Alg v3.AssemblyInfoInputs.cache
+D:\Facultate\Cripto\Proiect Okamoto\Okamoto Alg v3\Okamoto Alg v3\obj\Debug\net7.0\Okamoto Alg v3.AssemblyInfo.cs
+D:\Facultate\Cripto\Proiect Okamoto\Okamoto Alg v3\Okamoto Alg v3\obj\Debug\net7.0\Okamoto Alg v3.csproj.CoreCompileInputs.cache
+D:\Facultate\Cripto\Proiect Okamoto\Okamoto Alg v3\Okamoto Alg v3\bin\Debug\net7.0\Okamoto Alg v3.exe
+D:\Facultate\Cripto\Proiect Okamoto\Okamoto Alg v3\Okamoto Alg v3\bin\Debug\net7.0\Okamoto Alg v3.deps.json
+D:\Facultate\Cripto\Proiect Okamoto\Okamoto Alg v3\Okamoto Alg v3\bin\Debug\net7.0\Okamoto Alg v3.runtimeconfig.json
+D:\Facultate\Cripto\Proiect Okamoto\Okamoto Alg v3\Okamoto Alg v3\bin\Debug\net7.0\Okamoto Alg v3.dll
+D:\Facultate\Cripto\Proiect Okamoto\Okamoto Alg v3\Okamoto Alg v3\bin\Debug\net7.0\Okamoto Alg v3.pdb
+D:\Facultate\Cripto\Proiect Okamoto\Okamoto Alg v3\Okamoto Alg v3\obj\Debug\net7.0\Okamoto Alg v3.dll
+D:\Facultate\Cripto\Proiect Okamoto\Okamoto Alg v3\Okamoto Alg v3\obj\Debug\net7.0\refint\Okamoto Alg v3.dll
+D:\Facultate\Cripto\Proiect Okamoto\Okamoto Alg v3\Okamoto Alg v3\obj\Debug\net7.0\Okamoto Alg v3.pdb
+D:\Facultate\Cripto\Proiect Okamoto\Okamoto Alg v3\Okamoto Alg v3\obj\Debug\net7.0\Okamoto Alg v3.genruntimeconfig.cache
+D:\Facultate\Cripto\Proiect Okamoto\Okamoto Alg v3\Okamoto Alg v3\obj\Debug\net7.0\ref\Okamoto Alg v3.dll

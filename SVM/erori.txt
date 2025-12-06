@@ -1,0 +1,60 @@
+svm\SVM.java:123: warning: [removal] stop() in Thread has been deprecated and marked for removal
+				if(algorithm !=null){algorithm.stop(); algorithm = null; init2();}	
+				                              ^
+svm\SVM.java:131: warning: [removal] stop() in Thread has been deprecated and marked for removal
+				if(algorithm !=null){algorithm.stop(); algorithm = null; init2();}	
+				                              ^
+svm\SVM.java:139: warning: [removal] stop() in Thread has been deprecated and marked for removal
+				if(algorithm !=null){algorithm.stop(); algorithm = null; init2();}	
+				                              ^
+svm\SVM.java:140: error: cannot access DecisionTree
+				algorithm = new DecisionTree(this);
+				                ^
+  bad source file: svm\alg\DecisionTree.java
+    file does not contain class alg.DecisionTree
+    Please remove or make sure it appears in the correct subdirectory of the sourcepath.
+svm\SVM.java:147: warning: [removal] stop() in Thread has been deprecated and marked for removal
+				if(algorithm !=null){algorithm.stop(); algorithm = null; init2();}	
+				                              ^
+svm\SVM.java:218: warning: [removal] stop() in Thread has been deprecated and marked for removal
+		algorithm.stop();
+		         ^
+svm\alg\DecisionTree.java:36: error: cannot find symbol
+        float[] M0 = new float[dim];
+                               ^
+  symbol:   variable dim
+  location: class DecisionTree
+svm\alg\DecisionTree.java:37: error: cannot find symbol
+        float[] M1 = new float[dim];
+                               ^
+  symbol:   variable dim
+  location: class DecisionTree
+svm\alg\DecisionTree.java:47: error: cannot find symbol
+        for (int j = 0; j < dim; j++) {
+                            ^
+  symbol:   variable dim
+  location: class DecisionTree
+svm\alg\DecisionTree.java:59: error: cannot find symbol
+        float[] X0 = new float[dim];
+                               ^
+  symbol:   variable dim
+  location: class DecisionTree
+svm\alg\DecisionTree.java:60: error: cannot find symbol
+        float[] w = new float[dim+1];
+                              ^
+  symbol:   variable dim
+  location: class DecisionTree
+svm\alg\DecisionTree.java:61: error: cannot find symbol
+        for (int j = 0; j < dim; j++) {
+                            ^
+  symbol:   variable dim
+  location: class DecisionTree
+svm\alg\DecisionTree.java:64: error: cannot find symbol
+            w[dim] -= w[j] * X0[j];
+              ^
+  symbol:   variable dim
+  location: class DecisionTree
+Note: svm\SVM.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+8 errors
+5 warnings
